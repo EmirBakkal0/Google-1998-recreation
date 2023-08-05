@@ -1,0 +1,51 @@
+.text-center {
+    /* centers the texts and images */
+    text-align: center;
+}
+
+.search-bar {
+    text-align: center;
+
+    background-color: rgb(228, 227, 227);
+    width: 90%;
+    margin: auto;
+    
+}
+
+footer {
+    width: 90%;
+    margin: auto;
+}
+
+.footer-spec {
+    background-color: #7ee5da;
+    width: 35%;
+    float: left;
+    margin: 2px 0px;
+    text-align: center;
+    border-spacing: 2px;
+    height: 80px;
+    padding: 12px 0px;
+
+}
+
+
+
+#links {
+    width: 28%;
+    margin: 2px 0.25%;
+    background-color: #70d3cb;
+}
+
+#mail {
+    width:36.5%;
+    background-color: #70d3cb;
+}
+
+.clear {
+    clear: both;
+}
+
+.font-small {
+    font-size: small;
+}
